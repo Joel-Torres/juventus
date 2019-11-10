@@ -197,8 +197,8 @@ figure.hero figcaption * {
 
 footer {
     display: grid;
-    grid-template-columns: 10% 1fr 1fr 10%;
-    grid-column-gap: 20px;
+    grid-template-columns: 0% 10fr 2fr 22%;
+    grid-column-gap: 10px;
     background-color: var(--second-color);
     flex: 0 0 80px;
     flex-direction: row;
